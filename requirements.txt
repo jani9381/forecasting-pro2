@@ -7,3 +7,13 @@ statsmodels
 scikit-learn
 pmdarima
 openpyxl
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+statsmodels
+openpyxl
+streamlit
+cython
+pmdarima==1.8.5
